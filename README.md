@@ -1,4 +1,23 @@
-## Hi there 👋
+## Hi, I'm Yashika Solanki 👋
+
+🎓 B.Tech CSE (AI/ML) student at SGT University, Gurugram  
+💻 Currently learning C programming, Java, and Data Structures & Algorithms  
+☁️ Exploring Cloud Computing with Microsoft Azure  
+🚀 Building projects step by step and growing consistently  
+
+### 🔧 Skills & Learning
+- Programming: C, Java  
+- Core CS: DSA fundamentals  
+- Cloud: Azure basics  
+- Tools: Git, GitHub  
+
+### 📌 Current Focus
+- Strengthening programming fundamentals  
+- Writing clean and consistent code  
+- Maintaining GitHub with real learning progress  
+
+🌱 First-year student with a long-term goal of becoming a skilled software/cloud engineer.
+
 
 <!--
 **ysolanki26/ysolanki26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
