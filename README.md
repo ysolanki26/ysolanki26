@@ -16,7 +16,7 @@
 - Writing clean and consistent code  
 - Maintaining GitHub with real learning progress  
 
-🌱 First-year student with a long-term goal of becoming a skilled software/cloud engineer.
+🌱 First-year student with a long-term goal of becoming a skilled software engineer.
 
 
 <!--
