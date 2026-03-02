@@ -1,12 +1,12 @@
 ## Hi, I'm Yashika Solanki 👋
 
 🎓 B.Tech CSE (AI/ML) student at SGT University, Gurugram  
-💻 Currently learning C programming, Java, and Data Structures & Algorithms  
+💻 Currently learning C programming, Python, C++ and Data Structures & Algorithms  
 ☁️ Exploring Cloud Computing with Microsoft Azure  
 🚀 Building projects step by step and growing consistently  
 
 ### 🔧 Skills & Learning
-- Programming: C, Java  
+- Programming: C, Python, C++ 
 - Core CS: DSA fundamentals  
 - Cloud: Azure basics  
 - Tools: Git, GitHub  
